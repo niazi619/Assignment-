@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PrimaryButtonStyleTextColor">
+        <item name="colorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="PrimaryButtonTheme" parent="Widget.MaterialComponents.Button">
+        <item name="materialThemeOverlay">@style/PrimaryButtonStyleTextColor</item>
+    </style>
+
+</resources>

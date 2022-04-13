@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2021 Muhammad Fahad
+  -->
+
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorSecondary">#FF6200EE</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorTitle">#000</color>
+</resources>

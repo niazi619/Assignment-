@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2021 Muhammad Fahad
+  -->
+
+<resources>
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="buttonCornorsRadius">16dp</dimen>
+</resources>
